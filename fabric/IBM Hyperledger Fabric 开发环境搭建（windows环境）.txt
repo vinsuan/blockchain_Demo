@@ -1,0 +1,1 @@
+这个我关于搭建fabric开发环境的博客和一些所需要的资源，http://blog.csdn.net/vinsuan1993/article/details/73725976
